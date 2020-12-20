@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Installation 💾
+1- Click the green 'Code' button and select 'download zip'<br>
+2- Unzip the file<br>
+3- Open the 'formula-master' folder and then, open the 'formula-v0.1' folder<br>
+4- Double click on the 'formula.exe' file<br>
 
-You can use the [editor on GitHub](https://github.com/calculatorhacks/calculatorhacks.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+WARNING: don't remove any files from the 'formula-v0.1' folder!<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### And you're done! If you want you can create a shortcut in the Desktop
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/calculatorhacks/calculatorhacks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Usage 🎮
+Enter the title and the content of the formula and click the 'Add' button to add your first formula to the list. You will see all formulas you add in the white box below. <br><br>
+To add the formulas to the calculator, first click 'Save' to save your formulas and then click 'Add to Calculator'. <br>
+IMPORTANT: Make sure you have connected the calculator to the computer with the USB cable!
+After that, unplug your calculator and enter the 'Python' programm in the menu. First, open the 'CASIO' folder and then, open the 'test' folder. There you will find 2 files: 'list.py' and 'test.py'. Select the 'test.py' file and press 'F1' to run the program. Now if you enter the letter 'h' (press shift+alpha+s<-->d) and then press 'EXE', a list with all your formulas will appear. Enter the number of one of your formulas and press 'EXE'. The title of that formula and the content will appear!
+### And, that's it! Enjoy! If you have any questions or issues, let me know in the 'Issues' section :)
