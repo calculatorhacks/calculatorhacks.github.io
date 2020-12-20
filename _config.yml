@@ -1,6 +1,7 @@
 theme: jekyll-theme-hacker
 title: Calculator Hacks
 description: Simple Hack programs for your Casio Colograph calculator!
+show_downloads: true
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
